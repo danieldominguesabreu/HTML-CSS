@@ -1,0 +1,22 @@
+.titulo{
+	font-size:40px;
+}
+.w-100{
+	width: 100%;
+}
+.m-10{
+	margin:20px;
+}
+button:hover{
+	background-color: blueviolet !important;
+}	
+a:visited{
+    color:  #4fc5fc;
+}
+.cor{
+	color: rgb(110, 78, 141) !important;
+}
+.bg-amarelo{
+    background-color: #ffc720;
+}
+
